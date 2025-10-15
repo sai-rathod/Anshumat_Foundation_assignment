@@ -1,0 +1,5 @@
+*.tfstate*
+*key*
+*.pub
+file.txt
+
